@@ -1,0 +1,34 @@
+_repo: A-Bad-Day-for-Vermin_51258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laumer, Keith
+    aliases:
+    - Laumer, John Keith
+    - Laumer, Kit
+    birthdate: 1925
+    deathdate: 1993
+    gutenberg_agent_id: '24817'
+    url: http://www.gutenberg.org/2009/agents/24817
+    wikipedia: http://en.wikipedia.org/wiki/Keith_Laumer
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51258'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Ethics -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Bad Day for Vermin
+url: http://www.gutenberg.org/ebooks/51258
